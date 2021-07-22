@@ -1,0 +1,13 @@
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.exe
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.deps.json
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.runtimeconfig.json
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.runtimeconfig.dev.json
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.dll
+D:\RacaAB\RolarDado\RolarDado\bin\Debug\netcoreapp3.1\RolarDado.pdb
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.csprojAssemblyReference.cache
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.csproj.CoreCompileInputs.cache
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.AssemblyInfoInputs.cache
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.AssemblyInfo.cs
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.dll
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.pdb
+D:\RacaAB\RolarDado\RolarDado\obj\Debug\netcoreapp3.1\RolarDado.genruntimeconfig.cache
